@@ -6,4 +6,5 @@ function darkmode(){
   }
     else{
       darkmode.style.backgroundColor = 'white';
+      darkmode.style.color = 'black';
 }
